@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Gabriella Perry</h1>
+<h3 align="left">A passionate Data Analyst from Phoenix, Arizona</h3>
 
-<!--
-**Itssgabbyp/itssgabbyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Project X, Y, Z](https://itssgabbyp.github.io/analyst-portfolio/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Excel, SQL and Power BI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://itssgabbyp.github.io/analyst-portfolio/](https://itssgabbyp.github.io/analyst-portfolio/)
+
+- 📫 How to reach me **buddy13801@gmail.com**
+
+- 📄 Know about my experiences [https://itssgabbyp.github.io/analyst-portfolio/](https://itssgabbyp.github.io/analyst-portfolio/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssgabbyp&show_icons=true&locale=en" alt="itssgabbyp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itssgabbyp&" alt="itssgabbyp" /></p>
